@@ -1,14 +1,17 @@
 # Plant Classification App
 
 ## Description:
-This repository contains my Plant Classification App with tensorflow and flask. The dataset used for this project was published in the kaggle: [plants dataset](https://www.kaggle.com/datasets/ryanpartridge01/wild-edible-plants).
+This repository contains my simple plant classification app with tensorflow and flask. 
 
-## Technological Stack:
-* Python, include libraries:
-** Tensorflow
-** Numpy
-** PIL
-** Matplotlib
-** Flask
-* html/css
-* Heroku
+## Data:
+The dataset used for this project was published in the kaggle: [plants dataset](https://www.kaggle.com/datasets/ryanpartridge01/wild-edible-plants). It contains 35 classes of wild edible plants. 
+
+## Technological stack:
+- #### Python, include libraries:
+  - Flask
+  - Tensorflow
+  - Numpy
+  - Pillow
+  - Sklearn
+- #### Html/css
+- #### Heroku
