@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 80px;
+    background-color: cornflowerblue;
+}
+.container {
+    text-align: center;
+}
+
+.image-upload {
+    text-align: center;
+    padding-left: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
